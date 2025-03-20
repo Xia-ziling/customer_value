@@ -1,0 +1,6 @@
+lime==0.2.0.1
+streamlit==1.12.0
+pandas
+joblib
+matplotlib
+kagglehub
